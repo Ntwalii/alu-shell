@@ -1,2 +1,3 @@
-#!/bin/bash chown betty
+#!/bin/bash
+chown betty
 
