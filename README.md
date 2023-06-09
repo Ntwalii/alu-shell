@@ -1,2 +1,1 @@
-#!/bin/bash
-yo
+learning loops_conditions_and_parsing with bash
